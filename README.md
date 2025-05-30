@@ -1,36 +1,65 @@
-# Soubhagya-ranjan-hati
-👨‍💻 My personal GitHub profile README.
-👋 Hi, I’m Soubhagya Ranjan Hati
-Aspiring Full Stack Java Developer | 💡 AI Enthusiast | 🎓 B.Tech CSE Student (2021–2025)
+# 👋 Hi, I'm Soubhagya Ranjan Hati
 
-🔧 Currently interning at Cognifyz Technologies as a Java Development Intern. Passionate about building scalable backend systems and clean, responsive frontends.
+🎓 B.Tech Computer Science Student | 💻 Java Full Stack Developer | 🧠 AI & Automation Enthusiast
 
-🛠️ Tech Stack
-Languages: Java, Python, C, C++
+---
 
-Web Development: HTML5, CSS3, JavaScript, React (basic)
+## 👨‍💻 About Me
 
-Backend: Spring Boot, Hibernate, RESTful APIs
+I’m a passionate developer from **Odisha, India**, currently pursuing B.Tech in Computer Science at **Templecity Institute of Technology & Engineering**.
 
-Databases: Oracle, PL/SQL, MySQL
+I love building full-stack web applications and exploring how **AI tools** can boost productivity and simplify development workflows. I'm particularly skilled in **Java, Spring Boot, Python, and SQL**, and enjoy taking part in **hackathons**, **open-source projects**, and **self-learning challenges**.
 
-Tools: Git, Maven, Docker
+---
 
-AI/Automation: Basic experience with Python for data processing and automation
+## 🚀 Skills & Technologies
 
-📜 Certifications
+- **Languages:** Java, Python, C/C++, SQL  
+- **Frameworks & Libraries:** Spring Boot, Hibernate, React (Basic)  
+- **Web:** HTML5, CSS3, JavaScript  
+- **Databases:** MySQL, Oracle, PL/SQL  
+- **Tools:** Git, GitHub, Postman, IntelliJ IDEA, VS Code, Eclipse  
+- **AI Tools:** OpenAI API, Prompt Engineering, ChatGPT automation
 
-Java Full Stack Development (Naresh IT)
+---
 
-Python Programming (Pythonsoft LLP & Great Learning)
+## 🧪 Projects
 
-Generative AI (Google Cloud)
+- 🏥 **Hospital Management System** – A CRUD-based system for managing patients, doctors, and appointments  
+- 🎓 **Student Management System** – A Spring Boot-based admin portal for academic records  
+- 🤖 **AI Prompt Generator** – A Python + OpenAI project that generates creative prompts  
+- 🎟 **CouponXchange** – A platform for sharing and redeeming promo codes and discount coupons
 
-AI Tools & ChatGPT Workshop (be10X)
+> Visit my repositories to explore these projects in detail!
 
-🔍 Always eager to explore new tech, contribute to open-source, and work on real-world projects that make an impact.
+---
 
-📫 Reach me at:
-soubhagyaranjanhati@gmail.com
+## 📜 Certifications
 
-🌐 www.linkedin.com/in/soubhagya-ranjan-426267216
+- Java Full Stack Developer – Naresh IT  
+- Generative AI – Google Cloud (Coursera)  
+- Python Programming – Great Learning  
+- AI Tools & ChatGPT – be10X  
+- Python Internship – Pythonsoft LLP
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React & Node.js  
+- Docker & CI/CD basics  
+- AI tool integration for dev workflows
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 [Email](mailto:soubhagyaranjanhati@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/soubhagya-ranjan-hati/)  
+- 🌐 [Portfolio](#) (Coming Soon)
+
+---
+
+> “Code is not just what I do, it’s how I think.”
+
+Thanks for stopping by! Don’t forget to ⭐ my repos if you find them useful.
